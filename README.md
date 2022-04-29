@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LorenzoMeyu!
+- 👋 Hi, I’m Lorenzo!
 - 👀 I’m interested in software development and all things releated to GNU / Linux.
 - 🌱 I’m currently learning Python, JS, Java and Angular.
 - 📫 How to reach me:
